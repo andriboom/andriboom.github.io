@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "1.0.5.5",
+  "versionCode": 32,
+  "versionName": "1.0.6",
   "content": "#1. update apps",
-  "minSupport": 29,
-  "url": "https://andro.strack.id/files/strack-prod-1055.apk",
-  "isMaintenance": true
+  "minSupport": 32,
+  "url": "https://andro.strack.id/files/strack-prod-106.apk",
+  "isMaintenance": false
 }
