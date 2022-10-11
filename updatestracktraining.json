@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "1.0.5.6 - TRAINING",
+  "versionCode": 31,
+  "versionName": "1.0.5.6.1 - TRAINING",
   "content": "#1. update apps",
-  "minSupport": 30,
-  "url": "https://andro.strack.id/files/strack-training-1056.apk",
+  "minSupport": 31,
+  "url": "https://andro.strack.id/files/strack-training-10561.apk",
   "isMaintenance": false
 }
