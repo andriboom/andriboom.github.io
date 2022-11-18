@@ -1,8 +1,8 @@
 {
-  "versionCode": 33,
+  "versionCode": 34,
   "versionName": "1.0.7.0 - TRAINING",
   "content": "#1. update apps",
-  "minSupport": 33,
+  "minSupport": 34,
   "url": "https://andro.strack.id/files/strack-training-1070.apk",
   "isMaintenance": false
 }
