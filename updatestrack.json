@@ -1,8 +1,8 @@
 {
-  "versionCode": 36,
-  "versionName": "1.0.7.1",
+  "versionCode": 37,
+  "versionName": "1.0.7.2",
   "content": "#1. update apps",
-  "minSupport": 36,
-  "url": "https://andro.strack.id/files/strack-prod-1071.apk",
+  "minSupport": 37,
+  "url": "https://andro.strack.id/files/strack-prod-1072.apk",
   "isMaintenance": false
 }
